@@ -37,7 +37,7 @@
 <br />
 <br />
 
-[website]: https://muhammadtalhasultan.com
+[website]: https://muhammadtalhasultan.blogspot.com
 [twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/channel/UC-cBM3nBHd5t6BKKznR3GNg
 [linkedin]: https://linkedin.com/in/muhammadtalhasultan
