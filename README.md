@@ -8,7 +8,7 @@
 - 🔭 &ensp;I’m currently working on Mobile Apps Development
 - 🌱 &ensp;I’m currently learning Flutter ❤️
 - 👯 &ensp;I’m looking to collaborate with other content creators
-- 🗿  &ensp; I am one of the early adopters of Flutter, it has been more than 2 years
+- 🗿  &ensp; I am one of the early adopters of Flutter, it has been more than 2 years 
 - ⚡ &ensp;Fun fact: I love reading & podcasts
 
 ### Connect With Me
