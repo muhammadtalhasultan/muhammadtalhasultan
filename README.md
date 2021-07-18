@@ -44,10 +44,10 @@
 <br />
 
 [website]: https://muhammadtalhasultan.blogspot.com
-[twitter]: https://twitter.com/
+[twitter]: https://twitter.com/muhammadtalhasultan
 [youtube]: https://www.youtube.com/channel/UC-cBM3nBHd5t6BKKznR3GNg
 [linkedin]: https://linkedin.com/in/muhammadtalhasultan
 [github]: https://github.com/muhammadtalhasultan
-[instagram]: https://www.instagram.com/aboutexpert
+[instagram]: https://www.instagram.com/muhammadtalhasultan.mts
 [facebook]: https://www.facebook.com/AboutExpert
 [medium]: https://medium.com/@muhammadtalhasultan
