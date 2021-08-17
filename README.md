@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm <a href="https://www.muhammadtalhasultan.github.io">Muhammad Talha Sultan!</a></h1>
+<h1 align="center"> Hi 👋, I'm <a href="https://muhammadtalhasultan.github.io">Muhammad Talha Sultan!</a></h1>
 <h3 align="center">Mobile Application Developer with Flutter Framework experience 😜</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadtalhasultan&label=Views&color=blue&style=plastic" alt="muhammadtalhasultan" /> </p>
 
