@@ -25,7 +25,7 @@
 
 <br />
 <br />
-
+<br />
 ### Languages and Tools
 [<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][youtube]
 [<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][youtube]
@@ -45,7 +45,7 @@
 
 [website]: https://muhammadtalhasultan.blogspot.com
 [twitter]: https://twitter.com/muhammadtalhasultan
-[youtube]: https://www.youtube.com/channel/UC-cBM3nBHd5t6BKKznR3GNg
+[youtube]: https://www.youtube.com/muhammadtalhasultan
 [linkedin]: https://linkedin.com/in/muhammadtalhasultan
 [github]: https://github.com/muhammadtalhasultan
 [instagram]: https://www.instagram.com/muhammadtalhasultan.mts
