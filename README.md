@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadtalhasultan&label=Views&color=blue&style=plastic" alt="muhammadtalhasultan" /> </p>
 
 [![GitHub followers](https://img.shields.io/github/followers/muhammadtalhasultan?logo=GitHub&style=for-the-badge)][github]
-[![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/muhammadtalhasultan/)][linkedin]
+[![Linkedin: MuhammadTalhaSultan](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/muhammadtalhasultan/)][linkedin]
 
 - 🔭 &ensp;I’m currently working on Mobile Apps Development
 - 🌱 &ensp;I’m currently learning Flutter ❤️
@@ -22,15 +22,17 @@
 [<img align="left" alt="Muhammad Talha Sultan | Facebook" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ffacebook.png?alt=media" />][facebook]
 [<img align="left" alt="Muhammad Talha Sultan | Medium" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fmedium.png?alt=media" />][medium]
 
+<br />
+<br />
 
-<br />
-<br />
-<br />
 ### Languages and Tools
-[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][youtube]
-[<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][youtube]
-[<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][youtube]
-[<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
+
+[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][flutter]
+[<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][firebase]
+[<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][dart]
+[<img align="left" alt=“Java” width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />][java]
+[<img align="left" alt=“Kotlin” width="26px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />][kotlin]
+[<img align="left" alt=“VSCode” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 <br />
 <br />
 <a href="https://github.com/muhammadtalhasultan">
@@ -51,3 +53,10 @@
 [instagram]: https://www.instagram.com/muhammadtalhasultan.mts
 [facebook]: https://www.facebook.com/AboutExpert
 [medium]: https://medium.com/@muhammadtalhasultan
+
+[flutter]: https://flutter.dev
+[dart]: https://dart.dev
+[vscode]: https://code.visualstudio.com
+[firebase]: https://firebase.google.com
+[java]: https://www.java.com/en/
+[kotlin]: https://kotlinlang.org
