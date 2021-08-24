@@ -9,7 +9,7 @@
 - 🌱 &ensp;I’m currently learning Flutter ❤️
 - 👯 &ensp;I’m looking to collaborate with other content creators
 - 🗿  &ensp; I am one of the early adopters of Flutter, it has been more than 2 years 
-- ⚡ &ensp;Fun fact: I love reading.
+- ⚡ &ensp;Fun fact: I love reading.⭐
 
 ### Connect With Me
 
@@ -53,7 +53,6 @@
 [instagram]: https://www.instagram.com/muhammadtalhasultan.mts
 [facebook]: https://www.facebook.com/AboutExpert
 [medium]: https://medium.com/@muhammadtalhasultan
-
 [flutter]: https://flutter.dev
 [dart]: https://dart.dev
 [vscode]: https://code.visualstudio.com
