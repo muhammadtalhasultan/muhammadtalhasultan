@@ -45,13 +45,13 @@
 <br />
 <br />
 
-[website]: https://muhammadtalhasultan.blogspot.com
-[twitter]: https://twitter.com/muhammadtalhasultan
+[website]: https://muhammadtalhasultan.github.io
+[twitter]: https://twitter.com/talhasultandev
 [youtube]: https://www.youtube.com/muhammadtalhasultan
 [linkedin]: https://linkedin.com/in/muhammadtalhasultan
 [github]: https://github.com/muhammadtalhasultan
-[instagram]: https://www.instagram.com/muhammadtalhasultan.mts
-[facebook]: https://www.facebook.com/AboutExpert
+[instagram]: https://www.instagram.com/talhasultandev
+[facebook]: https://www.facebook.com/TalhaSultanDev
 [medium]: https://medium.com/@muhammadtalhasultan
 [flutter]: https://flutter.dev
 [dart]: https://dart.dev
