@@ -33,8 +33,10 @@
 [<img align="left" alt=“Java” width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />][java]
 [<img align="left" alt=“Kotlin” width="26px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />][kotlin]
 [<img align="left" alt=“VSCode” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+
 <br />
 <br />
+
 <a href="https://github.com/muhammadtalhasultan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadtalhasultan&theme=light&hide_langs_below=1" />
 </a>
