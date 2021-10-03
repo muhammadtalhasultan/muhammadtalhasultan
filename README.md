@@ -5,8 +5,12 @@
 [![GitHub followers](https://img.shields.io/github/followers/muhammadtalhasultan?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: MuhammadTalhaSultan](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/muhammadtalhasultan/)][linkedin]
 
+Every great developer you know got there by solving problems they were unqualified to solve until they actually did it
+
+Skills: Flutter / Android / Kotlin / Swift / Java / MVP / MVVM / Web Services (REST) / Bug Fixing, Unit Testing / Software Design Patterns 
+
 - 🔭 &ensp;I’m currently working on Mobile Apps Development
-- 🌱 &ensp;I’m currently learning Flutter ❤️
+- 🌱 &ensp;I’m currently learning Flutter, Swift ❤️
 - 👯 &ensp;I’m looking to collaborate with other content creators
 - 🗿  &ensp; I am one of the early adopters of Flutter, it has been more than 2 years 
 - ⚡ &ensp;Fun fact: I love reading.⭐
