@@ -1,6 +1,5 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://muhammadtalhasultan.github.io">Muhammad Talha Sultan!</a></h1>
 <h3 align="center">Mobile Application Developer with Flutter Framework experience 😜</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadtalhasultan&label=Views&color=blue&style=plastic" alt="muhammadtalhasultan" /> </p>
 
 [![GitHub followers](https://img.shields.io/github/followers/muhammadtalhasultan?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: MuhammadTalhaSultan](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/muhammadtalhasultan/)][linkedin]
@@ -47,6 +46,11 @@ Skills: Flutter / Android / Kotlin / Swift / Java / MVP / MVVM / Web Services (R
 <a href="https://github.com/muhammadtalhasultan">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadtalhasultan&show_icons=true&theme=light&line_height=27" alt="Talha's github stats"/>
 </a>
+
+<br />
+<br />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadtalhasultan&label=Views&color=blue&style=plastic" alt="muhammadtalhasultan" /> </p>
 
 <br />
 <br />
