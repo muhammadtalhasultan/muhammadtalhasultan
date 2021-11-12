@@ -33,6 +33,7 @@ Skills: Flutter / Android / Kotlin / Swift / Java / MVP / MVVM / Web Services (R
 [<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][firebase]
 [<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][dart]
 [<img align="left" alt=“Java” width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />][java]
+[<img align="left" alt=“Swift” width="26px" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" />][swift]
 [<img align="left" alt=“Kotlin” width="26px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />][kotlin]
 [<img align="left" alt=“VSCode” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 
@@ -67,4 +68,5 @@ Skills: Flutter / Android / Kotlin / Swift / Java / MVP / MVVM / Web Services (R
 [vscode]: https://code.visualstudio.com
 [firebase]: https://firebase.google.com
 [java]: https://www.java.com/en/
+[swift]: https://developer.apple.com/swift/
 [kotlin]: https://kotlinlang.org
