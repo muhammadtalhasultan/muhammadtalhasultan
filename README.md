@@ -9,9 +9,9 @@ Every great developer you know got there by solving problems they were unqualifi
 Skills: Flutter / Android / Kotlin / Swift / Java / MVP / MVVM / Web Services (REST) / Bug Fixing, Unit Testing / Software Design Patterns 
 
 - 🔭 &ensp; I’m currently working on Mobile Application Development (Android, iOS & Cross Platorm)
-- 🌱 &ensp; learning Flutter, Swift  ❤️
+- 🌱 &ensp; I'm currently learning Flutter, Swift  ❤️
 - ⚡ &ensp; Fun fact: I love reading.⭐
-- 🗿  &ensp; I am one of the early adopters of Flutter, it has been more than 2 years 
+- 🗿 &ensp; I am one of the early adopters of Flutter, it has been more than 2 years 
 
 ### Connect With Me
 
