@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm <a href="https://muhammadtalhasultan.github.io">Muhammad Talha Sultan!</a></h1>
+<h1 align="center"> Hi 👋, I'm <a href="https://muhammadtalhasultan.github.io">Muhammad Talha Sultan</a></h1>
 <h3 align="center">Mobile Application Developer with Flutter Framework experience 😜</h3>
 
 [![GitHub followers](https://img.shields.io/github/followers/muhammadtalhasultan?logo=GitHub&style=for-the-badge)][github]
@@ -6,7 +6,7 @@
 
 Every great developer you know got there by solving problems they were unqualified to solve until they actually did it
 
-Skills: Flutter / Android / Kotlin / Swift / Java / MVP / MVVM / Web Services (REST) / Bug Fixing, Unit Testing / Software Design Patterns 
+Skills: Flutter / Android / Kotlin / Swift / Java / MVP / MVVM / Web Services (REST) / Bug Fixing, Unit Testing / Software Design Patterns.
 
 - 🔭 &ensp; I’m currently working on Mobile Application Development (Android, iOS & Cross Platorm)
 - 🌱 &ensp; I'm currently learning Flutter, Swift  ❤️
@@ -19,7 +19,6 @@ Skills: Flutter / Android / Kotlin / Swift / Java / MVP / MVVM / Web Services (R
 [<img align="left" alt="Muhammad Talha Sultan | YouTube" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fyoutube.png?alt=media" />][youtube]
 [<img align="left" alt="Muhammad Talha Sultan | Twitter" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ftwitter.png?alt=media" />][twitter]
 [<img align="left" alt="Muhammad Talha Sultan | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />][linkedin]
-
 [<img align="left" alt="Muhammad Talha Sultan | Instagram" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Finstagram.png?alt=media" />][instagram]
 [<img align="left" alt="Muhammad Talha Sultan | Facebook" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ffacebook.png?alt=media" />][facebook]
 [<img align="left" alt="Muhammad Talha Sultan | Medium" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fmedium.png?alt=media" />][medium]
