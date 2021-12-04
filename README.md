@@ -16,12 +16,13 @@ Skills: Flutter / Android / Kotlin / Swift / Java / MVP / MVVM / Web Services (R
 ### Connect With Me
 
 [<img align="left" alt="Muhammad Talha Sultan | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
-[<img align="left" alt="Muhammad Talha Sultan | YouTube" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fyoutube.png?alt=media" />][youtube]
-[<img align="left" alt="Muhammad Talha Sultan | Twitter" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ftwitter.png?alt=media" />][twitter]
-[<img align="left" alt="Muhammad Talha Sultan | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />][linkedin]
-[<img align="left" alt="Muhammad Talha Sultan | Instagram" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Finstagram.png?alt=media" />][instagram]
-[<img align="left" alt="Muhammad Talha Sultan | Facebook" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ffacebook.png?alt=media" />][facebook]
-[<img align="left" alt="Muhammad Talha Sultan | Medium" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fmedium.png?alt=media" />][medium]
+[<img align="left" alt="Muhammad Talha Sultan | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />][mail]
+[<img align="left" alt="Muhammad Talha Sultan | YouTube" width="28px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][youtube]
+[<img align="left" alt="Muhammad Talha Sultan | Twitter" width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />][twitter]
+[<img align="left" alt="Muhammad Talha Sultan | LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
+[<img align="left" alt="Muhammad Talha Sultan | Instagram" width="28px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />][instagram]
+[<img align="left" alt="Muhammad Talha Sultan | Facebook" width="28px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />][facebook]
+[<img align="left" alt="Muhammad Talha Sultan | Medium" width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium]
 
 <br />
 <br />
@@ -34,7 +35,7 @@ Skills: Flutter / Android / Kotlin / Swift / Java / MVP / MVVM / Web Services (R
 [<img align="left" alt=“Java” width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />][java]
 [<img align="left" alt=“Swift” width="26px" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" />][swift]
 [<img align="left" alt=“Kotlin” width="26px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />][kotlin]
-[<img align="left" alt=“VSCode” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+[<img align="left" alt=“VSCode” width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />][vscode]
 
 <br />
 <br />
@@ -48,6 +49,11 @@ Skills: Flutter / Android / Kotlin / Swift / Java / MVP / MVVM / Web Services (R
 
 <br />
 <br />
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadtalhasultan&label=Views&color=blue&style=plastic" alt="muhammadtalhasultan" /> </p>
 
@@ -55,6 +61,7 @@ Skills: Flutter / Android / Kotlin / Swift / Java / MVP / MVVM / Web Services (R
 <br />
 
 [website]: https://muhammadtalhasultan.github.io
+[mail]: mailto:talhasultan.dev@gmail.com
 [twitter]: https://twitter.com/talhasultandev
 [youtube]: https://www.youtube.com/muhammadtalhasultan
 [linkedin]: https://linkedin.com/in/muhammadtalhasultan
