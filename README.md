@@ -3,7 +3,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/muhammadtalhasultan?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: MuhammadTalhaSultan](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/muhammadtalhasultan/)][linkedin]
-<img src="https://komarev.com/ghpvc/?username=muhammadtalhasultan&label=Views&color=blue&style=plastic" alt="muhammadtalhasultan" /> 
+<!-- <img src="https://komarev.com/ghpvc/?username=muhammadtalhasultan&label=Views&color=blue&style=plastic" alt="muhammadtalhasultan" />  -->
 
 Every great developer you know got there by solving problems they were unqualified to solve until they actually did it
 
@@ -57,6 +57,7 @@ Skills: Flutter / Android / Kotlin / Swift / Java / MVP / MVVM / Web Services (R
 
 ### Show some ❤️ by starring some of the repositories!
 
+<img align="center" src = "https://profile-counter.glitch.me/muhammadtalhasultan/count.svg" alt ="Loading...">
 </div>
 
 <br />
