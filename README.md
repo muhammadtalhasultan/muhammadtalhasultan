@@ -12,7 +12,6 @@ Skills: Flutter / Android / Kotlin / Swift / Java / MVP / MVVM / Web Services (R
 - 🔭 &ensp; I’m currently working on Mobile Application Development (Android, iOS & Cross Platorm)
 - 🌱 &ensp; I'm currently learning Flutter, Swift & more ❤️
 - ⚡ &ensp; Fun fact: I love reading.⭐
-- ⚡ &ensp; Coffee Lover ❤️
 - 🗿 &ensp; I am one of the early adopters of Flutter, it has been more than 2 years 
 
 ### Connect With Me
