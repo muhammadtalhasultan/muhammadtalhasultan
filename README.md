@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm <a href="https://muhammadtalhasultan.github.io">Muhammad Talha Sultan</a></h1>
+<h1 align="center"> Hi 👋, I'm <a href="https://talhasultan.dev">Muhammad Talha Sultan</a></h1>
 <h3 align="center">Mobile Application Developer with Flutter Framework experience 😜</h3>
 
 [![GitHub followers](https://img.shields.io/github/followers/muhammadtalhasultan?logo=GitHub&style=for-the-badge)][github]
@@ -63,7 +63,7 @@ Skills: Flutter / Android / Kotlin / Swift / Java / MVP / MVVM / Web Services (R
 <br />
 <br />
 
-[website]: https://muhammadtalhasultan.github.io
+[website]: https://talhasultan.dev
 [whatsapp]: https://wa.me/923055573634
 [mail]: mailto:talhasultan.dev@gmail.com
 [twitter]: https://twitter.com/talhasultandev
