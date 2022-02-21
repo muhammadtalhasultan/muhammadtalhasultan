@@ -41,7 +41,10 @@ Skills: Flutter / Android / Kotlin / Swift / Java / MVP / MVVM / Web Services (R
 
 <br />
 <br />
-
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muhammadtalhasultan)  -->
+<a href="https://github.com/muhammadtalhasultan">
+ <img align="center" src="https://activity-graph.herokuapp.com/graph?username=muhammadtalhasultan" alt="Talha's github stats"/>
+</a>
 <a href="https://github.com/muhammadtalhasultan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadtalhasultan&theme=light&hide_langs_below=1" />
 </a>
