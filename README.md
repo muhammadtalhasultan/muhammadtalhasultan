@@ -1,9 +1,11 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://talhasultan.dev">Muhammad Talha Sultan</a></h1>
 <h3 align="center">Mobile Application Developer with Flutter Framework experience 😜</h3>
 
-[![GitHub followers](https://img.shields.io/github/followers/muhammadtalhasultan?logo=GitHub&style=for-the-badge)][github]
+[![GitHub followers](https://img.shields.io/github/followers/muhammadtalhasultan?label=Github%20followers&style=for-the-badge)][github]
+[![Github Stars](https://img.shields.io/github/stars/muhammadtalhasultan?label=Github%20stars&style=for-the-badge)][github]
+<img src="https://komarev.com/ghpvc/?username=muhammadtalhasultan&label=Profile Views&color=blue&style=for-the-badge" alt="muhammadtalhasultan" />
 [![Linkedin: MuhammadTalhaSultan](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/muhammadtalhasultan/)][linkedin]
-<img src="https://komarev.com/ghpvc/?username=muhammadtalhasultan&label=Profile Views&color=blue&style=plastic" alt="muhammadtalhasultan" />
+
 
 Every great developer you know got there by solving problems they were unqualified to solve until they actually did it
 
