@@ -86,7 +86,7 @@ Skills: Flutter / Android / Kotlin / Swift / Java / MVP / MVVM / Web Services (R
 
 [website]: https://talhasultan.dev
 [whatsapp]: https://wa.me/923055573634
-[mail]: mailto:talhasultan.dev@gmail.com
+[mail]: mailto:mail@talhasultan.dev
 [twitter]: https://twitter.com/talhasultandev
 [youtube]: https://www.youtube.com/muhammadtalhasultan
 [linkedin]: https://linkedin.com/in/muhammadtalhasultan
