@@ -66,12 +66,7 @@ Skills: Flutter / Android / Kotlin / Swift / Java / MVP / MVVM / Web Services (R
 <a href="https://github.com/muhammadtalhasultan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadtalhasultan&theme=light&hide_langs_below=1" />
 </a>
-<!-- <a href="https://github.com/muhammadtalhasultan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadtalhasultan&show_icons=true&theme=light&line_height=27" alt="Talha's github stats"/>
-</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadtalhasultan&" alt="pavel401" /></p>
- -->
 <br />
 <br />
 <div align="center">
