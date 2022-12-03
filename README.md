@@ -26,8 +26,8 @@ Skills: Flutter / Android / Kotlin / Swift / Java / MVP / MVVM / Web Services (R
 [<img align="left" alt="Muhammad Talha Sultan | LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
 [<img align="left" alt="Muhammad Talha Sultan | Instagram" width="28px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />][instagram]
 [<img align="left" alt="Muhammad Talha Sultan | Facebook" width="28px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />][facebook]
-[<img align="left" alt="Muhammad Talha Sultan | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" />][whatsapp]
 [<img align="left" alt="Muhammad Talha Sultan | Medium" width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium]
+[<img align="left" alt="Muhammad Talha Sultan | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" />][whatsapp]
 
 <br />
 <br />
