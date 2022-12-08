@@ -55,13 +55,13 @@ Skills: Flutter / Android / Kotlin / Swift / Java / MVP / MVVM / Web Services (R
     </td>
    </tr>
 </table>
-<table cellspacing="0" cellpadding="0" style="border:none;">
+<!-- <table cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
     <td>
       <img align="center" src="https://activity-graph.herokuapp.com/graph?username=muhammadtalhasultan" alt="Talha's github stats"/>    
     </td> 
    </tr>
-</table>
+</table> -->
 
 <a href="https://github.com/muhammadtalhasultan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadtalhasultan&theme=light&hide_langs_below=1" />
