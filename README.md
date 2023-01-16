@@ -69,6 +69,7 @@ Skills: Flutter / Android / Kotlin / Swift / Java / MVP / MVVM / Web Services (R
 
 <br />
 <br />
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
