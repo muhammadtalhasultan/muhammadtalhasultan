@@ -17,7 +17,7 @@ Skills: Flutter / Android / Kotlin / Swift / Java / MVP / MVVM / Web Services (R
 - ⚡ &ensp; Fun fact: I love reading.⭐
 - 🗿 &ensp;  I am one of the early adopters of Flutter, it has been more than 3 years 
 
-### Connect With Me
+## Connect With Me
 
 [<img align="left" alt="Muhammad Talha Sultan | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
 [<img align="left" alt="Muhammad Talha Sultan | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />][mail]
@@ -32,7 +32,7 @@ Skills: Flutter / Android / Kotlin / Swift / Java / MVP / MVVM / Web Services (R
 <br />
 <br />
 
-### Languages and Tools
+## Languages and Tools
 
 [<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][flutter]
 [<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][firebase]
@@ -45,6 +45,12 @@ Skills: Flutter / Android / Kotlin / Swift / Java / MVP / MVVM / Web Services (R
 <br />
 <br />
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=muhammadtalhasultan&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+
+
+
+# 📊 GitHub Stats:
 <table cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
     <td>
@@ -70,10 +76,17 @@ Skills: Flutter / Android / Kotlin / Swift / Java / MVP / MVVM / Web Services (R
 <br />
 <br />
 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<br />
+<br /> 
+
 <div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
+Show some ❤️ by starring some of the repositories!
+<br />
+<br />
 <img align="center" src = "https://profile-counter.glitch.me/muhammadtalhasultan/count.svg" alt ="Loading...">
 </div>
 
