@@ -33,7 +33,7 @@ Skills: Flutter / Android / Kotlin / Swift / Java / MVP / MVVM / Web Services (R
 <br />
 
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,kotlin,python,git,github,swift,firebase,appwrite,figma,vscode)](https://talhasultan.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,kotlin,python,git,github,swift,firebase,appwrite,figma,vscode&theme=light)](https://talhasultan.dev)
 
 <br />
 
