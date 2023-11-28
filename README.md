@@ -1,10 +1,12 @@
-<h1 align="center"> Hi 👋, I'm <a href="https://talhasultan.dev">Muhammad Talha Sultan</a></h1>
-<h3 align="center">Mobile Application Developer with Flutter Framework experience 😜</h3>
+<!-- <h1 align="center"> Hi 👋, I'm <a href="https://talhasultan.dev">Muhammad Talha Sultan</a></h1>
+<h3 align="center">Mobile Application Developer with Flutter Framework experience 😜</h3> -->
+
+[<img src="https://github.com/muhammadtalhasultan/muhammadtalhasultan/assets/31367048/c66a9d30-428d-4bf9-8c82-96d10361727d"/>][website]
 
 <div class="row">
-    <img src="https://img.shields.io/github/followers/muhammadtalhasultan?label=Github%20followers&style=for-the-badge" alt="muhammadtalhasultan" />
-    <img src="https://img.shields.io/github/stars/muhammadtalhasultan?label=Github%20stars&style=for-the-badge" alt="muhammadtalhasultan" />
-    <img  src="https://komarev.com/ghpvc/?username=muhammadtalhasultan&label=Profile Views&color=blue&style=for-the-badge" alt="muhammadtalhasultan" />
+    <img src="https://img.shields.io/github/followers/muhammadtalhasultan?label=Github%20followers&style=for-the-badge"  />
+    <img src="https://img.shields.io/github/stars/muhammadtalhasultan?label=Github%20stars&style=for-the-badge"  />
+    <img  src="https://komarev.com/ghpvc/?username=muhammadtalhasultan&label=Profile%20Views&color=blue&style=for-the-badge" />
     <a href="https://www.linkedin.com/in/muhammadtalhasultan/"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/muhammadtalhasultan/" alt="muhammadtalhasultan" /> </a>
 </div>
 
